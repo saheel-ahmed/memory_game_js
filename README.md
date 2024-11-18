@@ -6,3 +6,5 @@
 Follow the instructions on how to build this game in my blog
 (http://marciavillalba.com/tech/create-memory-game-with-javascript/)
 
+http://marciavillalba.com/tech/projects/memory_game_js/
+
